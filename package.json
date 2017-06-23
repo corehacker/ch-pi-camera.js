@@ -1,0 +1,25 @@
+{
+  "name": "Corehacker Pi Camera",
+  "version": "0.1.0",
+  "description": "Node.js based raspberry pi camera capture.",
+  "main": "ch-pi-camera.js",
+  "scripts": {
+    "start": "node ch-pi-camera.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/corehacker/ch-pi-camera.js"
+  },
+  "keywords": [
+    "node",
+    "raspberrypi",
+    "pi",
+    "raspivid",
+    "ffmpeg"
+  ],
+  "author": "Sandeep Prakash (corehacker)",
+  "contributors": [
+    "Sandeep Prakash <123sandy@gmail.com>"
+  ],
+  "license": "MIT"
+}
